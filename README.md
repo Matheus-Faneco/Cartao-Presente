@@ -11,4 +11,16 @@ O projeto de cartão de aniversário cria uma página de aniversário com três 
 - Fotos: Galeria de fotos com funcionário da empresa.
 - Os caminhos das imagens estão definidos com endereços locais.
 
-Nenhum requisito externo é necessário, apenas a clonagem já é o suficiente.
+## Requisitos
+
+Altere o caminho das imagens no index.html
+
+```
+<div class="photo">
+  <img src="caminhoDaImagem\funcionario1.jpeg" alt="Foto 1"> 
+  <div class="label">1</div>
+```
+
+Nenhum requisito externo é necessário além da alteração do caminho das imagens.
+
+
